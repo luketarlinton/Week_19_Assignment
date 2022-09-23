@@ -7,4 +7,4 @@ Screenshot of Transaction wihtin Ganache:
 <img width="1192" alt="Screen Shot - Ganache Transaction" src="https://user-images.githubusercontent.com/103994978/191920184-35632d0d-b586-4c42-b630-1aa82c70cadd.png">
 
 Screenshot of Ganache Account Balance:
-![Uploading Screen Shot - Ganache Account Balance.png…]()
+<img width="1197" alt="Screen Shot - Ganache Account Balance" src="https://user-images.githubusercontent.com/103994978/191920829-ce3eff75-12e1-4dbb-9a3c-d401a7ebe475.png">
